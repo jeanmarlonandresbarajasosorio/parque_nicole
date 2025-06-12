@@ -1,7 +1,7 @@
 🎢 Parque Nicole - Diseño de Base de Datos NoSQL (MongoDB)
 Nombres de los Integrantes:
 
-jean marlon 
+Jean marlon 
 
 📂 Colección: zonas
 Atributos Propuestos:
